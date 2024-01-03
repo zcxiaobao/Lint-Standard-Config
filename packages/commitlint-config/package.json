@@ -1,0 +1,17 @@
+{
+  "name": "@zctools/commitlint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Git 规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

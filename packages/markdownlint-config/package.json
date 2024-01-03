@@ -1,0 +1,17 @@
+{
+  "name": "@zctools/markdownlint-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "description": "文档规范",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
