@@ -2,10 +2,6 @@
   "name": "eslint-plugin-zctools",
   "version": "1.0.6",
   "description": "自定义 eslint 插件",
-  "scripts": {
-    "test": "jest",
-    "prepublishOnly": "npm run test"
-  },
   "files": [
     "configs/",
     "rules/",
@@ -22,7 +18,9 @@
     "require-all": "^3.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.7.0",
-    "jest": "^26.6.3"
+    "eslint": "^8.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
