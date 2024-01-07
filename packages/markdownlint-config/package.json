@@ -8,8 +8,8 @@
     "lint"
   ],
   "license": "ISC",
-  "peerDependencies": {
-    "markdownlint": "^0.28.1"
+  "dependencies": {
+    "markdownlint": "^0.32.1"
   },
   "publishConfig": {
     "access": "public"
