@@ -1,6 +1,6 @@
 {
   "name": "@zctools/markdownlint-config",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "index.json",
   "description": "文档规范",
   "keywords": [
